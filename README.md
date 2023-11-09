@@ -33,12 +33,14 @@
   - May need to install and wire the case's fans before installing any components. If so, follow the case's fan installation instructions.</br> 
 ![image](https://github.com/SanjayKumarAIML/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/93427246/9d5e1d10-9945-4c9a-b293-8194a32d961f)
 </br>
+
 - Secure the motherboard. Once the standoffs are installed, place the motherboard in the case and push it up against the backplate. All of the back ports should fit into the holes in the I/O backplate.
   - Use the screws provided to secure the motherboard to the standoffs through the shielded screw holes on the motherboard.
--  Plug in the case connectors. These tend to be located together on the motherboard near the front of the case. The order in which these are  connected will depend on which is easiest.
--  Make sure that the USB ports are connected, the Power and Reset switches, the LED power and hard drive lights, and the audio cable.
--  The motherboard’s documentation will show where on the motherboard these connectors attach.
--  There is typically only one way that these connectors can attach to the motherboard. Do not try to force anything to fit.
+  -  Plug in the case connectors. These tend to be located together on the motherboard near the front of the case. The order in which these are  connected will depend on which is easiest.
+  -  Make sure that the USB ports are connected, the Power and Reset switches, the LED power and hard drive lights, and the audio cable.
+  -  The motherboard’s documentation will show where on the motherboard these connectors attach.
+  -  There is typically only one way that these connectors can attach to the motherboard. Do not try to force anything to fit.
+  
 - Install the hard drive. This process will vary slightly depending on your case, but should typically go as follows:
   - Remove any front panels on the case.
   - Insert the hard drive into its slot (usually near the top of the case).
